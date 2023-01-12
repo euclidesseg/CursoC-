@@ -1,0 +1,13 @@
+=====================
+		VAR
+=====================
+--------es un tipo de datos generico por decirlo asi, es decir, cuando se declara un variable de este tipo 
+--------se le puede dar cualquier tipo de datos string int o bool pero tiene sus restricciones 
+--------no se puede reacignar un dato a esa variable 
+--------siempre se tiene que iniciar la variabl con un dato
+
+=====================
+		CONSTANTE
+=====================
+--------Una constante es dato que no va a cambiar durante toda la ejecucion del programa
+--------para declarar una constante lo hacemos con la palabra recervada const
