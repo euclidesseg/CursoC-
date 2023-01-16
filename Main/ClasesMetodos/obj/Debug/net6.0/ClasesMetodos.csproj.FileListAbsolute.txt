@@ -1,0 +1,12 @@
+C:\Users\eucli\Desktop\CursoCreacionDeApis\Main\ClasesMetodos\bin\Debug\net6.0\ClasesMetodos.deps.json
+C:\Users\eucli\Desktop\CursoCreacionDeApis\Main\ClasesMetodos\bin\Debug\net6.0\ClasesMetodos.dll
+C:\Users\eucli\Desktop\CursoCreacionDeApis\Main\ClasesMetodos\bin\Debug\net6.0\ClasesMetodos.pdb
+C:\Users\eucli\Desktop\CursoCreacionDeApis\Main\ClasesMetodos\obj\Debug\net6.0\ClasesMetodos.csproj.AssemblyReference.cache
+C:\Users\eucli\Desktop\CursoCreacionDeApis\Main\ClasesMetodos\obj\Debug\net6.0\ClasesMetodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eucli\Desktop\CursoCreacionDeApis\Main\ClasesMetodos\obj\Debug\net6.0\ClasesMetodos.AssemblyInfoInputs.cache
+C:\Users\eucli\Desktop\CursoCreacionDeApis\Main\ClasesMetodos\obj\Debug\net6.0\ClasesMetodos.AssemblyInfo.cs
+C:\Users\eucli\Desktop\CursoCreacionDeApis\Main\ClasesMetodos\obj\Debug\net6.0\ClasesMetodos.csproj.CoreCompileInputs.cache
+C:\Users\eucli\Desktop\CursoCreacionDeApis\Main\ClasesMetodos\obj\Debug\net6.0\ClasesMetodos.dll
+C:\Users\eucli\Desktop\CursoCreacionDeApis\Main\ClasesMetodos\obj\Debug\net6.0\refint\ClasesMetodos.dll
+C:\Users\eucli\Desktop\CursoCreacionDeApis\Main\ClasesMetodos\obj\Debug\net6.0\ClasesMetodos.pdb
+C:\Users\eucli\Desktop\CursoCreacionDeApis\Main\ClasesMetodos\obj\Debug\net6.0\ref\ClasesMetodos.dll

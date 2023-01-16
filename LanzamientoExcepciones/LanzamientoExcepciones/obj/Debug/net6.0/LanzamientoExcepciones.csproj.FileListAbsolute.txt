@@ -1,0 +1,15 @@
+C:\Users\eucli\Desktop\CursoCShart\LanzamientoExcepciones\LanzamientoExcepciones\bin\Debug\net6.0\LanzamientoExcepciones.exe
+C:\Users\eucli\Desktop\CursoCShart\LanzamientoExcepciones\LanzamientoExcepciones\bin\Debug\net6.0\LanzamientoExcepciones.deps.json
+C:\Users\eucli\Desktop\CursoCShart\LanzamientoExcepciones\LanzamientoExcepciones\bin\Debug\net6.0\LanzamientoExcepciones.runtimeconfig.json
+C:\Users\eucli\Desktop\CursoCShart\LanzamientoExcepciones\LanzamientoExcepciones\bin\Debug\net6.0\LanzamientoExcepciones.dll
+C:\Users\eucli\Desktop\CursoCShart\LanzamientoExcepciones\LanzamientoExcepciones\bin\Debug\net6.0\LanzamientoExcepciones.pdb
+C:\Users\eucli\Desktop\CursoCShart\LanzamientoExcepciones\LanzamientoExcepciones\obj\Debug\net6.0\LanzamientoExcepciones.csproj.AssemblyReference.cache
+C:\Users\eucli\Desktop\CursoCShart\LanzamientoExcepciones\LanzamientoExcepciones\obj\Debug\net6.0\LanzamientoExcepciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eucli\Desktop\CursoCShart\LanzamientoExcepciones\LanzamientoExcepciones\obj\Debug\net6.0\LanzamientoExcepciones.AssemblyInfoInputs.cache
+C:\Users\eucli\Desktop\CursoCShart\LanzamientoExcepciones\LanzamientoExcepciones\obj\Debug\net6.0\LanzamientoExcepciones.AssemblyInfo.cs
+C:\Users\eucli\Desktop\CursoCShart\LanzamientoExcepciones\LanzamientoExcepciones\obj\Debug\net6.0\LanzamientoExcepciones.csproj.CoreCompileInputs.cache
+C:\Users\eucli\Desktop\CursoCShart\LanzamientoExcepciones\LanzamientoExcepciones\obj\Debug\net6.0\LanzamientoExcepciones.dll
+C:\Users\eucli\Desktop\CursoCShart\LanzamientoExcepciones\LanzamientoExcepciones\obj\Debug\net6.0\refint\LanzamientoExcepciones.dll
+C:\Users\eucli\Desktop\CursoCShart\LanzamientoExcepciones\LanzamientoExcepciones\obj\Debug\net6.0\LanzamientoExcepciones.pdb
+C:\Users\eucli\Desktop\CursoCShart\LanzamientoExcepciones\LanzamientoExcepciones\obj\Debug\net6.0\LanzamientoExcepciones.genruntimeconfig.cache
+C:\Users\eucli\Desktop\CursoCShart\LanzamientoExcepciones\LanzamientoExcepciones\obj\Debug\net6.0\ref\LanzamientoExcepciones.dll

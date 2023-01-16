@@ -1,0 +1,12 @@
+C:\Users\eucli\Desktop\CursoCShart\clasesObjetos\bin\Debug\net6.0\clasesObjetos.deps.json
+C:\Users\eucli\Desktop\CursoCShart\clasesObjetos\bin\Debug\net6.0\clasesObjetos.dll
+C:\Users\eucli\Desktop\CursoCShart\clasesObjetos\bin\Debug\net6.0\clasesObjetos.pdb
+C:\Users\eucli\Desktop\CursoCShart\clasesObjetos\obj\Debug\net6.0\clasesObjetos.csproj.AssemblyReference.cache
+C:\Users\eucli\Desktop\CursoCShart\clasesObjetos\obj\Debug\net6.0\clasesObjetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eucli\Desktop\CursoCShart\clasesObjetos\obj\Debug\net6.0\clasesObjetos.AssemblyInfoInputs.cache
+C:\Users\eucli\Desktop\CursoCShart\clasesObjetos\obj\Debug\net6.0\clasesObjetos.AssemblyInfo.cs
+C:\Users\eucli\Desktop\CursoCShart\clasesObjetos\obj\Debug\net6.0\clasesObjetos.csproj.CoreCompileInputs.cache
+C:\Users\eucli\Desktop\CursoCShart\clasesObjetos\obj\Debug\net6.0\clasesObjetos.dll
+C:\Users\eucli\Desktop\CursoCShart\clasesObjetos\obj\Debug\net6.0\refint\clasesObjetos.dll
+C:\Users\eucli\Desktop\CursoCShart\clasesObjetos\obj\Debug\net6.0\clasesObjetos.pdb
+C:\Users\eucli\Desktop\CursoCShart\clasesObjetos\obj\Debug\net6.0\ref\clasesObjetos.dll

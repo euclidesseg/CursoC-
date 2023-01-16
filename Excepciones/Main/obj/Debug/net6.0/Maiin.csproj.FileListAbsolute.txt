@@ -1,0 +1,12 @@
+C:\Users\eucli\Desktop\CursoCShart\Excepciones\Main\bin\Debug\net6.0\Maiin.deps.json
+C:\Users\eucli\Desktop\CursoCShart\Excepciones\Main\bin\Debug\net6.0\Maiin.dll
+C:\Users\eucli\Desktop\CursoCShart\Excepciones\Main\bin\Debug\net6.0\Maiin.pdb
+C:\Users\eucli\Desktop\CursoCShart\Excepciones\Main\obj\Debug\net6.0\Maiin.csproj.AssemblyReference.cache
+C:\Users\eucli\Desktop\CursoCShart\Excepciones\Main\obj\Debug\net6.0\Maiin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eucli\Desktop\CursoCShart\Excepciones\Main\obj\Debug\net6.0\Maiin.AssemblyInfoInputs.cache
+C:\Users\eucli\Desktop\CursoCShart\Excepciones\Main\obj\Debug\net6.0\Maiin.AssemblyInfo.cs
+C:\Users\eucli\Desktop\CursoCShart\Excepciones\Main\obj\Debug\net6.0\Maiin.csproj.CoreCompileInputs.cache
+C:\Users\eucli\Desktop\CursoCShart\Excepciones\Main\obj\Debug\net6.0\Maiin.dll
+C:\Users\eucli\Desktop\CursoCShart\Excepciones\Main\obj\Debug\net6.0\refint\Maiin.dll
+C:\Users\eucli\Desktop\CursoCShart\Excepciones\Main\obj\Debug\net6.0\Maiin.pdb
+C:\Users\eucli\Desktop\CursoCShart\Excepciones\Main\obj\Debug\net6.0\ref\Maiin.dll
