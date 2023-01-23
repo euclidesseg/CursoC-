@@ -1,0 +1,12 @@
+C:\Users\Euclides-Perez\Desktop\CursoCShart\Bibliotecas\bin\Debug\net6.0\Bibliotecas.deps.json
+C:\Users\Euclides-Perez\Desktop\CursoCShart\Bibliotecas\bin\Debug\net6.0\Bibliotecas.dll
+C:\Users\Euclides-Perez\Desktop\CursoCShart\Bibliotecas\bin\Debug\net6.0\Bibliotecas.pdb
+C:\Users\Euclides-Perez\Desktop\CursoCShart\Bibliotecas\obj\Debug\net6.0\Bibliotecas.csproj.AssemblyReference.cache
+C:\Users\Euclides-Perez\Desktop\CursoCShart\Bibliotecas\obj\Debug\net6.0\Bibliotecas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Euclides-Perez\Desktop\CursoCShart\Bibliotecas\obj\Debug\net6.0\Bibliotecas.AssemblyInfoInputs.cache
+C:\Users\Euclides-Perez\Desktop\CursoCShart\Bibliotecas\obj\Debug\net6.0\Bibliotecas.AssemblyInfo.cs
+C:\Users\Euclides-Perez\Desktop\CursoCShart\Bibliotecas\obj\Debug\net6.0\Bibliotecas.csproj.CoreCompileInputs.cache
+C:\Users\Euclides-Perez\Desktop\CursoCShart\Bibliotecas\obj\Debug\net6.0\Bibliotecas.dll
+C:\Users\Euclides-Perez\Desktop\CursoCShart\Bibliotecas\obj\Debug\net6.0\refint\Bibliotecas.dll
+C:\Users\Euclides-Perez\Desktop\CursoCShart\Bibliotecas\obj\Debug\net6.0\Bibliotecas.pdb
+C:\Users\Euclides-Perez\Desktop\CursoCShart\Bibliotecas\obj\Debug\net6.0\ref\Bibliotecas.dll

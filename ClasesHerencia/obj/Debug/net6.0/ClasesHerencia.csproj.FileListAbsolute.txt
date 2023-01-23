@@ -1,0 +1,12 @@
+C:\Users\Euclides-Perez\Desktop\CursoCShart\ClasesHerencia\bin\Debug\net6.0\ClasesHerencia.deps.json
+C:\Users\Euclides-Perez\Desktop\CursoCShart\ClasesHerencia\bin\Debug\net6.0\ClasesHerencia.dll
+C:\Users\Euclides-Perez\Desktop\CursoCShart\ClasesHerencia\bin\Debug\net6.0\ClasesHerencia.pdb
+C:\Users\Euclides-Perez\Desktop\CursoCShart\ClasesHerencia\obj\Debug\net6.0\ClasesHerencia.csproj.AssemblyReference.cache
+C:\Users\Euclides-Perez\Desktop\CursoCShart\ClasesHerencia\obj\Debug\net6.0\ClasesHerencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Euclides-Perez\Desktop\CursoCShart\ClasesHerencia\obj\Debug\net6.0\ClasesHerencia.AssemblyInfoInputs.cache
+C:\Users\Euclides-Perez\Desktop\CursoCShart\ClasesHerencia\obj\Debug\net6.0\ClasesHerencia.AssemblyInfo.cs
+C:\Users\Euclides-Perez\Desktop\CursoCShart\ClasesHerencia\obj\Debug\net6.0\ClasesHerencia.csproj.CoreCompileInputs.cache
+C:\Users\Euclides-Perez\Desktop\CursoCShart\ClasesHerencia\obj\Debug\net6.0\ClasesHerencia.dll
+C:\Users\Euclides-Perez\Desktop\CursoCShart\ClasesHerencia\obj\Debug\net6.0\refint\ClasesHerencia.dll
+C:\Users\Euclides-Perez\Desktop\CursoCShart\ClasesHerencia\obj\Debug\net6.0\ClasesHerencia.pdb
+C:\Users\Euclides-Perez\Desktop\CursoCShart\ClasesHerencia\obj\Debug\net6.0\ref\ClasesHerencia.dll
