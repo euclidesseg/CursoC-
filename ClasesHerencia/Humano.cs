@@ -6,11 +6,20 @@ using System.Threading.Tasks;
 
 namespace ClasesHerencia
 {
+
+    // el estado inicial consiste en agregarle un nombre a los mamiferos que hereden de la clase principal
     public class Humano:Mamiferos
     {
-        public void pensar()
+        // el siguiente constructor debe llamar al constructor de la clase padre y ya que el constructor de la clase padre esta pidiendo un parametro
+        // se lo mandamos desde la llamada al mismo
+        public Humano(string nombreHumano):base(nombreHumano)
         {
-            Console.WriteLine("Soy capaz de pensar");
+
+        }
+        //sobreescribiendo el metodo pensar
+        public override void pensar()
+        {
+            Console.WriteLine("Soy capaz de pensar razonablemente");
         }
     }
 }

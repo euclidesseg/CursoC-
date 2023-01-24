@@ -9,6 +9,10 @@ namespace ClasesHerencia
     //la sintaxis para especificar ue una clase hereda es : y el nombre de la clase que va a heredar
     public class Caballo: Mamiferos
     {
+        public Caballo(string nombreCaballo): base(nombreCaballo)
+        {
+        
+        }
         // si un caballo respira y cuida de las crias no necesito volverlo a programar porque ya lo hereda
         public void galopar()
         {

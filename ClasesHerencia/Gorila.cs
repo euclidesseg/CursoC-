@@ -8,6 +8,10 @@ namespace ClasesHerencia
 {
     public class Gorila:Mamiferos
     {
+        public Gorila(string nombreGorila) : base(nombreGorila)
+        {
+
+        }
         public void Trepar()
         {
             Console.WriteLine("soy capaz de trepar");

@@ -10,3 +10,15 @@ C:\Users\Euclides-Perez\Desktop\CursoCShart\ClasesHerencia\obj\Debug\net6.0\Clas
 C:\Users\Euclides-Perez\Desktop\CursoCShart\ClasesHerencia\obj\Debug\net6.0\refint\ClasesHerencia.dll
 C:\Users\Euclides-Perez\Desktop\CursoCShart\ClasesHerencia\obj\Debug\net6.0\ClasesHerencia.pdb
 C:\Users\Euclides-Perez\Desktop\CursoCShart\ClasesHerencia\obj\Debug\net6.0\ref\ClasesHerencia.dll
+C:\Users\eucli\Desktop\CursoCShart\ClasesHerencia\bin\Debug\net6.0\ClasesHerencia.deps.json
+C:\Users\eucli\Desktop\CursoCShart\ClasesHerencia\bin\Debug\net6.0\ClasesHerencia.dll
+C:\Users\eucli\Desktop\CursoCShart\ClasesHerencia\bin\Debug\net6.0\ClasesHerencia.pdb
+C:\Users\eucli\Desktop\CursoCShart\ClasesHerencia\obj\Debug\net6.0\ClasesHerencia.csproj.AssemblyReference.cache
+C:\Users\eucli\Desktop\CursoCShart\ClasesHerencia\obj\Debug\net6.0\ClasesHerencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eucli\Desktop\CursoCShart\ClasesHerencia\obj\Debug\net6.0\ClasesHerencia.AssemblyInfoInputs.cache
+C:\Users\eucli\Desktop\CursoCShart\ClasesHerencia\obj\Debug\net6.0\ClasesHerencia.AssemblyInfo.cs
+C:\Users\eucli\Desktop\CursoCShart\ClasesHerencia\obj\Debug\net6.0\ClasesHerencia.csproj.CoreCompileInputs.cache
+C:\Users\eucli\Desktop\CursoCShart\ClasesHerencia\obj\Debug\net6.0\ClasesHerencia.dll
+C:\Users\eucli\Desktop\CursoCShart\ClasesHerencia\obj\Debug\net6.0\refint\ClasesHerencia.dll
+C:\Users\eucli\Desktop\CursoCShart\ClasesHerencia\obj\Debug\net6.0\ClasesHerencia.pdb
+C:\Users\eucli\Desktop\CursoCShart\ClasesHerencia\obj\Debug\net6.0\ref\ClasesHerencia.dll

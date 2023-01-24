@@ -27,23 +27,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Euclides-Perez\\.nuget\\packages\\": {},
+    "C:\\Users\\eucli\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Euclides-Perez\\Desktop\\CursoCShart\\HerenciaMain\\HerenciaMain.csproj",
+      "projectUniqueName": "C:\\Users\\eucli\\Desktop\\CursoCShart\\HerenciaMain\\HerenciaMain.csproj",
       "projectName": "HerenciaMain",
-      "projectPath": "C:\\Users\\Euclides-Perez\\Desktop\\CursoCShart\\HerenciaMain\\HerenciaMain.csproj",
-      "packagesPath": "C:\\Users\\Euclides-Perez\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Euclides-Perez\\Desktop\\CursoCShart\\HerenciaMain\\obj\\",
+      "projectPath": "C:\\Users\\eucli\\Desktop\\CursoCShart\\HerenciaMain\\HerenciaMain.csproj",
+      "packagesPath": "C:\\Users\\eucli\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\eucli\\Desktop\\CursoCShart\\HerenciaMain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Euclides-Perez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\eucli\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -59,8 +59,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Euclides-Perez\\Desktop\\CursoCShart\\ClasesHerencia\\ClasesHerencia.csproj": {
-              "projectPath": "C:\\Users\\Euclides-Perez\\Desktop\\CursoCShart\\ClasesHerencia\\ClasesHerencia.csproj"
+            "C:\\Users\\eucli\\Desktop\\CursoCShart\\ClasesHerencia\\ClasesHerencia.csproj": {
+              "projectPath": "C:\\Users\\eucli\\Desktop\\CursoCShart\\ClasesHerencia\\ClasesHerencia.csproj"
             }
           }
         }
