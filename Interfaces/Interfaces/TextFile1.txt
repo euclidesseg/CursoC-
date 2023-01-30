@@ -1,0 +1,36 @@
+﻿
+
+--------INTERFACES
+
+--------son un conjunto de directrices que deben cumplir las clases
+--------Si tubieramos una clas Ejemplo1, Bueno las clase opcional mente pueden implementar las clase que no sotros creemos
+--------Es parecido a una clase pero totalmente diferente, ya que una interfaz solo existen definiciones de los metodos
+--------Es desir una interfaz solament va a tener la declaracion de un metodo sin contemplar
+--------Esos metodos marcan las directrices que van a seguir las clases que hereden de ella es decir, un tipo de contraro
+
+--------Para hace este ejemplo mas claro agregaremos una clase ballena que heredara de mamiferos
+--------Ahora imaginemos que en la clase Mamiferos agreguemos otro metodo llamado numeroPatas();
+--------Entonces la ballena tambien heredaria este metodo que no tiene ningun sentido la ballena no tiene patas
+
+--------Una solucion es crear una interfaz y en esa interfaz crearemos el metodo numeroPatas();
+--------public interfaz IMamiferosTerrestres
+
+--------En c# los metodos de una interfaz solo se de declaran, no se desarrollan, no deben llevar modificador de acceso 
+--------Bueno de esta forma creamos entonces la interfaz y los animales qaue tengan patas la deven inplementar
+
+--------Cuando vallamoa desarrollar los metodos de una interfaz el tipo de retorno debe ser el mismo,
+--------El tipo y numero de parametro tambien debe ser el mismo
+--------el nombre del metodo tambien debe ser exactamente el mismo 
+
+--------En c# cuando se hereda de clases e interfaces sismpre se hace la herencia de la clase primero
+
+--------Ahora tambien podermos trabajar con varios metodos en dentro de una interfaz y heredar de varias interfaces
+--------Para eso crearemos otra interfaz para hacer que caballo herede de ella
+--------Dentro de caballo IcaballosDeportes dos metodos
+
+--------Puede que angun momento suceda que sucede alguna anviguidade y esto se refiere a que tenemos dos metodos iguales en dos interfazes
+--------diferentes eso se soluicona llmando al metodo con la notacion punto desupes del nombre de la interfaz
+--------int IMamiferosTerrestres.numeropatas(){}  
+
+--------SI queremos que un clase no sobreescriba un metodo de su clase padre al metodo de la clase padre le agregamos la palabra recervada 
+--------sealed esto me vita la sobreescritura, asi mismo le podemos poner a la clase y esto evitario que ninguna clase herede de esta

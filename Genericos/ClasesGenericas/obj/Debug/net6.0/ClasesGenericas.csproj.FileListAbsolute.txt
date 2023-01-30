@@ -1,0 +1,12 @@
+C:\Users\eucli\Desktop\CursoCShart\Genericos\ClasesGenericas\bin\Debug\net6.0\ClasesGenericas.deps.json
+C:\Users\eucli\Desktop\CursoCShart\Genericos\ClasesGenericas\bin\Debug\net6.0\ClasesGenericas.dll
+C:\Users\eucli\Desktop\CursoCShart\Genericos\ClasesGenericas\bin\Debug\net6.0\ClasesGenericas.pdb
+C:\Users\eucli\Desktop\CursoCShart\Genericos\ClasesGenericas\obj\Debug\net6.0\ClasesGenericas.csproj.AssemblyReference.cache
+C:\Users\eucli\Desktop\CursoCShart\Genericos\ClasesGenericas\obj\Debug\net6.0\ClasesGenericas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eucli\Desktop\CursoCShart\Genericos\ClasesGenericas\obj\Debug\net6.0\ClasesGenericas.AssemblyInfoInputs.cache
+C:\Users\eucli\Desktop\CursoCShart\Genericos\ClasesGenericas\obj\Debug\net6.0\ClasesGenericas.AssemblyInfo.cs
+C:\Users\eucli\Desktop\CursoCShart\Genericos\ClasesGenericas\obj\Debug\net6.0\ClasesGenericas.csproj.CoreCompileInputs.cache
+C:\Users\eucli\Desktop\CursoCShart\Genericos\ClasesGenericas\obj\Debug\net6.0\ClasesGenericas.dll
+C:\Users\eucli\Desktop\CursoCShart\Genericos\ClasesGenericas\obj\Debug\net6.0\refint\ClasesGenericas.dll
+C:\Users\eucli\Desktop\CursoCShart\Genericos\ClasesGenericas\obj\Debug\net6.0\ClasesGenericas.pdb
+C:\Users\eucli\Desktop\CursoCShart\Genericos\ClasesGenericas\obj\Debug\net6.0\ref\ClasesGenericas.dll

@@ -1,0 +1,2 @@
+﻿--------La programacion generica  consiste en crear clases comodin que nos permiten manerjar cualquier tipo de objeto
+--------ejemplo objetos de tipo string de tipo date de tipo empleado

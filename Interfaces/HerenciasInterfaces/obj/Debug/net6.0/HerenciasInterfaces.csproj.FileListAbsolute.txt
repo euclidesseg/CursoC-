@@ -1,0 +1,12 @@
+C:\Users\eucli\Desktop\CursoCShart\Interfaces\HerenciasInterfaces\obj\Debug\net6.0\HerenciasInterfaces.csproj.AssemblyReference.cache
+C:\Users\eucli\Desktop\CursoCShart\Interfaces\HerenciasInterfaces\obj\Debug\net6.0\HerenciasInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eucli\Desktop\CursoCShart\Interfaces\HerenciasInterfaces\obj\Debug\net6.0\HerenciasInterfaces.AssemblyInfoInputs.cache
+C:\Users\eucli\Desktop\CursoCShart\Interfaces\HerenciasInterfaces\obj\Debug\net6.0\HerenciasInterfaces.AssemblyInfo.cs
+C:\Users\eucli\Desktop\CursoCShart\Interfaces\HerenciasInterfaces\obj\Debug\net6.0\HerenciasInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\eucli\Desktop\CursoCShart\Interfaces\HerenciasInterfaces\bin\Debug\net6.0\HerenciasInterfaces.deps.json
+C:\Users\eucli\Desktop\CursoCShart\Interfaces\HerenciasInterfaces\bin\Debug\net6.0\HerenciasInterfaces.dll
+C:\Users\eucli\Desktop\CursoCShart\Interfaces\HerenciasInterfaces\bin\Debug\net6.0\HerenciasInterfaces.pdb
+C:\Users\eucli\Desktop\CursoCShart\Interfaces\HerenciasInterfaces\obj\Debug\net6.0\HerenciasInterfaces.dll
+C:\Users\eucli\Desktop\CursoCShart\Interfaces\HerenciasInterfaces\obj\Debug\net6.0\refint\HerenciasInterfaces.dll
+C:\Users\eucli\Desktop\CursoCShart\Interfaces\HerenciasInterfaces\obj\Debug\net6.0\HerenciasInterfaces.pdb
+C:\Users\eucli\Desktop\CursoCShart\Interfaces\HerenciasInterfaces\obj\Debug\net6.0\ref\HerenciasInterfaces.dll

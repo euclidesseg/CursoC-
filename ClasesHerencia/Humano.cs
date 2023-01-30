@@ -17,7 +17,7 @@ namespace ClasesHerencia
 
         }
         //sobreescribiendo el metodo pensar
-        public override void pensar()
+        public override   void pensar()
         {
             Console.WriteLine("Soy capaz de pensar razonablemente");
         }
