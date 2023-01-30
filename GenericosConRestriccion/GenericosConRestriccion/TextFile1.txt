@@ -1,0 +1,9 @@
+﻿Una clase generica con restriccion consiste en evitar que dicha clase guarde sierto tipo de objetos para 
+enternder mejor este concepto crearemos el siguiente ejercicio 
+
+--------Crear  4 clases Secretaria Director Profesor Electisista
+--------Esas 4 clases implementaran uns interfaz llamada Para empleados ya que esta clase tendra el metodo getSueldo que es comun paa todos los 
+--------empleados 
+
+--------Seguido vamos a crear una clase Generica que almacene objetos de todos los tipos anteriores pero solo si esas clases estan 
+--------implementando la interfaz
