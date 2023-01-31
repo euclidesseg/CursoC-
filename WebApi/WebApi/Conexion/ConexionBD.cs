@@ -11,7 +11,7 @@
             /* ConfigurationBuilder indica que es la construccion del constructor Build indica construir y acabamos de acceder al directorio appSetting
              * dond e esta nuestra cadena */
 
-            connectionString = constructor.GetSection("ConnectionStrings: conexionmaestra").Value;
+            connectionString = constructor.GetSection("ConnectionStrings:conexionmaestra").Value;
             /*con nuestra variable conectionstring accedemos a laa seccion de nuestro directorio y nos traremos la cadena de conexion*/
         }
         public string getConection()

@@ -7,8 +7,8 @@ Configuracion de potsaman
 
 --------Agregamos el primer controlador para nuestra tabla desde la carpeta controler
 
---------agregamos una carpeta para agregar nuestro modelo en un acarpeta models eso es porque no sabemos que campos vamos a madejar en la tabla
---------
+--------agregamos una carpeta para agregar nuestro modelo en un acarpeta models eso es porque no sabemos que campos vamos a manejar en la tabla
+--------agregamos nuestro DTO en una carpeta llamada DTO
 --------
 --------
 --------
