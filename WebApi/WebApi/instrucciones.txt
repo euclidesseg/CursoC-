@@ -9,7 +9,10 @@ Configuracion de potsaman
 
 --------agregamos una carpeta para agregar nuestro modelo en un acarpeta models eso es porque no sabemos que campos vamos a manejar en la tabla
 --------agregamos nuestro DTO en una carpeta llamada DTO
---------
+--------creamos nuestro controlador en la carpeta controller
+
+
+--------A continuasion vamos a insertar productos desde nuestro DTO de igual manera
 --------
 --------
 --------

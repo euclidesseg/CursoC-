@@ -42,5 +42,23 @@ namespace TiendaApi.DTOs
             }
             return lista;
         }
+
+        public async Task AddProducts(Mproductos parametros)// cada que el usuario consuma esta funcion tendra que enviar un objeto de parametros
+        {
+            using (var sql = new SqlConnection(cnx.getConection()))
+            {
+                /* a continuacion hacemos nuestro comando nuevamente*/
+                using(var cmd = new SqlCommand("[dbo].[InsertProduct]" ,sql))
+                {
+                    cmd.CommandType = CommandType.StoredProcedure;
+                    /* ahora indicamos que tambien tiene parametros*/
+                    cmd.Parameters.AddWithValue("descripcion", parametros.descripcion); //indicamos que este procedimiento tendra paramtros para agrear
+                    cmd.Parameters.AddWithValue("precio", parametros.precio);
+                    await sql.OpenAsync();
+                    await cmd.ExecuteNonQueryAsync();
+                }
+            }
+
+        }
     }
 }
