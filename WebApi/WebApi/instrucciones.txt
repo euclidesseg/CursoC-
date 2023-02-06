@@ -11,11 +11,19 @@ Configuracion de potsaman
 --------agregamos nuestro DTO en una carpeta llamada DTO
 --------creamos nuestro controlador en la carpeta controller
 
-
+===================================================================================
 --------A continuasion vamos a insertar productos desde nuestro DTO de igual manera
---------
---------
---------
---------
---------
---------
+--------Para insertar yo puedo enviar los pareametros atravez de parametros frombody o headers, en este caso lo enviaremos por body
+
+--------Estando en el postman escojemos body y damos el formado de raw para practicar el json
+--------Despues de raw mas adelante escojemos json
+--------y llenamos un objeto de javascript con los datos que enviaremos al endpoint
+--------{
+--------"descripcion": "Monitor",
+--------"precio": "30000"
+--------}
+===================================================================================
+
+--------Actualizando los datos HttpPut luego de documentar los dto y controladores 
+--------debemos tener en cuanta pasar el id por parametros atravez de la url
+--------tambien aunque no vamos a editar un campo devemos llenar el fromBody con todos los parametros que nos pide el procedimiento
